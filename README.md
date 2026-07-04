@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Aaditya Karki 👋</h1>
+<h1 align="center">Hi, I'm Aaditya</h1>
 <h3 align="center">Full-Stack Developer | Frontend-Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Building+with+React+%26+Next.js;MongoDB+%7C+Tailwind+CSS;Hackathon+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=console.log(%22Hello+World%22)%3B;Building+with+React+%26+Next.js;Fueled+by+bugs+and+caffeine;Hackathon+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,18 @@
 
 ### 👋 About
 
-I build clean, modern, and scalable web applications, with a particular focus on frontend development using React and Next.js. I completed my +2 (12th grade) from Kathmandu Model College, Bagbazar, and am currently building my skills as a self-taught full-stack developer. I enjoy hackathons and collaborative projects where I can apply what I've learned in a fast-paced, team-driven environment.
+```js
+const aaditya = {
+  role: "Full-Stack Developer",
+  focus: "Frontend",
+  education: "12th passout, Kathmandu Model College, Bagbazar",
+  currentlyBuilding: "clean, scalable web apps",
+  status: "self-taught, always shipping",
+  loves: ["hackathons", "clean UI", "shipping fast"],
+};
+```
+
+I build clean, modern, and scalable web applications, with a particular focus on frontend development using React and Next.js. I enjoy hackathons and collaborative projects where creativity, speed, and teamwork matter most — basically, throw me into a chaotic 24-hour build and I'm home.
 
 ### 🛠️ Tech Stack
 
@@ -38,19 +49,12 @@ I build clean, modern, and scalable web applications, with a particular focus on
 
 ### 🤝 Open To
 
-Hackathons, team projects, and collaboration opportunities.
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadityakarki007&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakarki007&layout=compact&hide_border=true" />
-</p>
+Hackathons, team projects, and collaboration opportunities — send bugs, not spam.
 
 ### 📫 Connect
 
-- GitHub: [Aaditya](https://github.com/aadityakarki007)
+- GitHub: [aadityakarki007](https://github.com/aadityakarki007)
 - Instagram: [@aadi_tya_karki](https://instagram.com/aadi_tya_karki)
 
 ---
-<p align="center"><i>If you find my work useful, feel free to check out my repositories and leave a star ⭐</i></p>
+<p align="center"><i>⭐ If you find my work useful, drop a star — it fuels the commits.</i></p>
