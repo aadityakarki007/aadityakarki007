@@ -47,6 +47,8 @@ I build clean, modern, and scalable web applications, with a particular focus on
 - Backend optimization
 - Clean architecture and best practices
 
+> 🔒 Note: 30+ of my repositories are private for security reasons, so my public commit activity looks lighter than my actual work :)
+
 ### 🤝 Open To
 
 Hackathons, team projects, and collaboration opportunities — send bugs, not spam.
@@ -57,4 +59,4 @@ Hackathons, team projects, and collaboration opportunities — send bugs, not sp
 - Instagram: [@aadi_tya_karki](https://instagram.com/aadi_tya_karki)
 
 ---
-<p align="center"><i>⭐ If you find my work useful, drop a star — it fuels the commits.</i></p>
+<p align="center"><i> If you find my work useful, drop a star — it fuels the commits.</i></p>
