@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aaditya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/aadityakarki007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/aadi_tya_karki"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
@@ -43,13 +43,13 @@ Hackathons, team projects, and collaboration opportunities.
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaditya&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadityakarki007&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakarki007&layout=compact&hide_border=true" />
 </p>
 
 ### 📫 Connect
 
-- GitHub: [Aaditya](https://github.com/Aaditya)
+- GitHub: [Aaditya](https://github.com/aadityakarki007)
 - Instagram: [@aadi_tya_karki](https://instagram.com/aadi_tya_karki)
 
 ---
