@@ -1,68 +1,36 @@
-# Hi 👋, I'm Aaditya
+# Aaditya Karki
 
-🚀 **Full-Stack Developer** | Frontend-Focused  
-💻 Passionate about building clean, modern, and scalable web applications  
-⚡ Hackathon enthusiast | Team-oriented | Always learning
+Full-Stack Developer focused on frontend development, based in Kathmandu, Nepal.
 
----
+## 👋 About
 
-## 👨‍💻 About Me
-
-I'm a **full-stack developer** with a strong focus on **frontend development**.  
-I enjoy turning ideas into interactive, user-friendly interfaces while also being comfortable working across the stack when needed.
-
-I love collaborating in fast-paced environments like **hackathons**, where creativity, speed, and teamwork matter the most.
-
----
+I build clean, modern, and scalable web applications, with a particular focus on frontend development using React and Next.js. I completed my +2 (12th grade) from Kathmandu Model College, Bagbazar, and am currently building my skills as a self-taught full-stack developer. I enjoy hackathons and collaborative projects where I can apply what I've learned in a fast-paced, team-driven environment.
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- **React.js**
-- **Next.js**
-- **Tailwind CSS**
-- HTML5, CSS3, JavaScript (ES6+)
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
 
-### Backend
-- **Next.js API Routes**
-- Node.js
-- REST APIs
+**Backend:** Next.js API Routes, Node.js, REST APIs
 
-### Database
-- MongoDB
+**Database:** MongoDB
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Vercel
-- npm
+**Tools:** Git, GitHub, VS Code, Vercel, npm
 
----
-
-## 📌 Programming Languages
-- JavaScript
-- TypeScript (basic / learning)
-
----
+**Languages:** JavaScript, TypeScript (learning)
 
 ## 🌱 Currently Learning
+
 - Advanced Next.js (Server Actions, App Router)
 - Backend optimization
-- Clean architecture & best practices
-
----
+- Clean architecture and best practices
 
 ## 🤝 Open To
-- Hackathons
-- Team projects
-- Collaboration & learning opportunities
 
----
+Hackathons, team projects, and collaboration opportunities.
 
-## 📫 Connect With Me
-- Instagram: **@aadi_tya_karki**
-- GitHub: **Aaditya**
+## 📫 Connect
 
----
+- GitHub: [Aaditya](https://github.com/Aaditya)
+- Instagram: [@aadi_tya_karki](https://instagram.com/aadi_tya_karki)
 
-⭐ *Feel free to check out my repositories and drop a star if you like my work!*
+If you find my work useful, feel free to check out my repositories and leave a star.
