@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Aaditya</h1>
-<h3 align="center">Full-Stack Developer | Frontend-Focused</h3>
+<h3 align="center">Full-Stack Developer | Frontend-Focused | Hardware & IoT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=console.log(%22Hello+World%22)%3B;Building+with+React+%26+Next.js;Fueled+by+bugs+and+caffeine;Hackathon+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=console.log(%22Hello+World%22)%3B;Building+with+React+%26+Next.js;Fueled+by+bugs+and+caffeine;Hackathon+Enthusiast;Tinkering+with+Arduino+%26+IoT" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,15 +17,15 @@
 ```js
 const aaditya = {
   role: "Full-Stack Developer",
-  focus: "Frontend",
+  focus: "Frontend | Hardware & IoT",
   education: "12th passout, Kathmandu Model College, Bagbazar",
-  currentlyBuilding: "clean, scalable web apps",
+  currentlyBuilding: "clean, scalable web apps & smart hardware projects",
   status: "self-taught, always shipping",
-  loves: ["hackathons", "clean UI", "shipping fast"],
+  loves: ["hackathons", "clean UI", "shipping fast", "tinkering with circuits"],
 };
 ```
 
-I build clean, modern, and scalable web applications, with a particular focus on frontend development using React and Next.js. I enjoy hackathons and collaborative projects where creativity, speed, and teamwork matter most — basically, throw me into a chaotic 24-hour build and I'm home.
+I build clean, modern, and scalable web applications, with a particular focus on frontend development using React and Next.js. Beyond the browser, I like getting my hands dirty with hardware — Arduino, sensors, and robotics — bridging software and the physical world. I enjoy hackathons and collaborative projects where creativity, speed, and teamwork matter most — basically, throw me into a chaotic 24-hour build (bonus points if it involves wires) and I'm home.
 
 ### 🛠️ Tech Stack
 
@@ -41,11 +41,25 @@ I build clean, modern, and scalable web applications, with a particular focus on
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</p>
+
 ### 🌱 Currently Learning
 
 - Advanced Next.js (Server Actions, App Router)
 - Backend optimization
 - Clean architecture and best practices
+
+### 🤖 Hardware & Robotics
+
+- Building with Arduino, ESP32, and Raspberry Pi
+- Exploring sensor integration and embedded systems
+- Interested in combining IoT devices with web dashboards (real-time data over MQTT/WebSockets)
+- Learning basic robotics — motor control, PID, and simple autonomous builds
 
 > 🔒 Note: 30+ of my repositories are private for security reasons, so my public commit activity looks lighter than my actual work :)
 
@@ -59,4 +73,5 @@ Hackathons, team projects, and collaboration opportunities — send bugs, not sp
 - Instagram: [@aadi_tya_karki](https://instagram.com/aadi_tya_karki)
 
 ---
-<p align="center"><i> If you find my work useful, drop a star — it fuels the commits.</i></p>
+
+<p align="center"><i>If you find my work useful, drop a star — it fuels the commits.</i></p>
