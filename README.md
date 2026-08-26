@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Frontend-Focused | Hardware & IoT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=console.log(%22Hello+World%22)%3B;Building+with+React+%26+Next.js;Fueled+by+bugs+and+caffeine;Hackathon+Enthusiast;Tinkering+with+Arduino+%26+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=console.log(%22Hello+World%22)%3B;Building+with+React+%26+Next.js;Fueled+by+bugs+and+caffeine;Hackathon+Enthusiast;Tinkering+with+ESP+%26+IoT" alt="Typing SVG" />
 </p>
 
 <p align="center">
